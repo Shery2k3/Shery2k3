@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shery2k3" alt="shery2k3" /></a> </p>
 
-- 🔭 I’m currently working on **Restaurant server**
+- 🔭 I’m currently working on a **Restaurant server**
 
 - 🌱 I’m currently learning **NextJS.**
 
-- 👯 I’m looking to collaborate on **something FUN**
+- 👯 I’m looking to collaborate on **Something FUN**
 
-- 💬 Ask me about **express, react**
+- 💬 Ask me about **Express, React**
 
 - 📫 How to reach me **shahryar2k3@gmail.com**
 
