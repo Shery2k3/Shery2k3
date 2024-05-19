@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahryar Khan</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">An ambitious backend developer</h3>
 
 - 🔭 I’m currently working on a **Restaurant server**
 
