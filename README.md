@@ -15,7 +15,7 @@
   - Implemented secure user authentication and authorization with JWT.  
   - Optimized queries and database structure for fast and efficient data retrieval.
 
-- **E-commerce Server (NopCommerce Migration):**  
+- **E-commerce Server:**  
   - Remodeled an existing NopCommerce e-commerce application by developing a custom backend with Express.js and React.  
   - Integrated Azure-hosted MSSQL database with complex relational schemas.  
   - Built role-based access control and custom admin panels using React for seamless management.  
