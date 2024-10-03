@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shahryar Khan</h1>
 <h3 align="center">An ambitious backend developer with a passion for building scalable and efficient systems</h3>
 
-🔭 I’m currently working on a **Restaurant Server**  
-🌱 I’m currently learning **NextJS**  
+🔭 I’m currently working on an **E-commerce Server**  
+🌱 I’m currently learning **Springboot**  
 👯 I’m looking to collaborate on **Projects with a focus on backend architecture and scalable systems**  
-💬 Ask me about **Express, React, API Integrations**  
+💬 Ask me about **Express, React**  
 📫 Reach me at: **shahryar2k3@gmail.com**
 
 ---
