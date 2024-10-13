@@ -4,7 +4,7 @@
 🔭 I’m currently working on an **E-commerce Server**  
 🌱 I’m currently learning **Springboot**  
 👯 I’m looking to collaborate on **Projects with a focus on backend architecture and scalable systems**  
-💬 Ask me about **Express, React**  
+💬 Ask me about **Backend systems**  
 📫 Reach me at: **shahryar2k3@gmail.com**
 
 ---
