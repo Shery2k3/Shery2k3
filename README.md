@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Coding Banner" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Coding Banner" width="50%"/>
 </p>
 
 <h1 align="center">Shahryar Khan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
@@ -7,10 +7,6 @@
 
 <p align="center">
   I engineer and deploy scalable, high-performance backend systems. My work focuses on architecting robust, end-to-end solutions with an emphasis on clean code, performance optimization, and measurable impact.
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="50%" alt="Dino"/>
 </p>
 
 ---
