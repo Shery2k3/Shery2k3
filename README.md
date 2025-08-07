@@ -1,97 +1,84 @@
-<h1 align="center">Hi 👋, I'm Shahryar Khan</h1>
-<h3 align="center">An ambitious backend developer with a passion for building scalable and efficient systems</h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Coding Banner" width="100%"/>
+</p>
 
-🔭 I’m currently working on an **E-commerce Server**  
-🌱 I’m currently learning **Springboot**  
-👯 I’m looking to collaborate on **Projects with a focus on backend architecture and scalable systems**  
-💬 Ask me about **Backend systems**  
-📫 Reach me at: **shahryar2k3@gmail.com**
+<h1 align="center">Shahryar Khan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h3 align="center">Backend Developer | System Architect | DevOps</h3>
+
+<p align="center">
+  I engineer and deploy scalable, high-performance backend systems. My work focuses on architecting robust, end-to-end solutions with an emphasis on clean code, performance optimization, and measurable impact.
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="50%" alt="Dino"/>
+</p>
 
 ---
 
-### 🛠️ Projects & Experiences
-- **Restaurant Server:**  
-  - Developed a backend server for a restaurant management system using Express.js.  
-  - Implemented secure user authentication and authorization with JWT.  
-  - Optimized queries and database structure for fast and efficient data retrieval.
+### 🚀 Building
 
-- **E-commerce Server:**  
-  - Remodeled an existing NopCommerce e-commerce application by developing a custom backend with Express.js and React.  
-  - Integrated Azure-hosted MSSQL database with complex relational schemas.  
-  - Built role-based access control and custom admin panels using React for seamless management.  
-
-- **React Custom Admin Panels:**  
-  - Created multiple custom admin dashboards for different projects to manage data and resources effectively.  
-  - Leveraged React's state management and component architecture for a responsive user experience.  
-  - Integrated multiple backend APIs and ensured secure data flow between frontend and backend systems.
-
-- **Server & Web Deployments:**  
-  - Experienced in deploying servers and web applications to cloud services and VPS providers.  
-  - Configured deployment environments using Linux-based systems, setting up NGINX, and managing SSL certificates.  
-  - Recently deployed a server to a VPS using Linux, ensuring high availability and performance through effective resource management.
+-   Currently developing a **Multi-Tenant HRM SaaS** using a modern **Python** stack (**FastAPI**, **PostgreSQL**). The goal is a fully scalable, microservices-based platform designed for comprehensive enterprise HR management.
 
 ---
 
-### 💻 Languages and Tools
+### 🔬 Deepdive
 
-<p align="left">
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads/" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="mssql" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/azure/azure-sql/" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="Azure SQL Database" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-</p>
-
+-   Learning about the world of advanced ML systems, with a focus on **Retrieval-Augmented Generation (RAG)** systems for complex querying and leveraging **Large Language Models (LLMs)** for intelligent, data-driven applications.
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ My Toolkit
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shery2k3&theme=calm_pink&show_icons=true&locale=en&layout=compact" alt="shery2k3" />
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-ec2025?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-90c53f?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Hono-E36000?style=for-the-badge&logo=hono&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-2ba845?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redis-d82c20?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-099cec?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NATS-0A0A0A?style=for-the-badge&logo=nats.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Railway-0B0D12?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shery2k3&theme=calm_pink&show_icons=true&locale=en" alt="shery2k3" />
+---
+
+### 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shahryar-khan-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shahryar2k3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shery2k3&theme=calm_pink" alt="shery2k3" />
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shery2k3&theme=tokyonight&show_icons=true&locale=en&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shery2k3&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shery2k3&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
