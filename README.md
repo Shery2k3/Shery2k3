@@ -66,15 +66,3 @@
 </p>
 
 ---
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shery2k3&theme=tokyonight&show_icons=true&locale=en&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shery2k3&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shery2k3&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
