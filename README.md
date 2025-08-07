@@ -2,28 +2,28 @@
   <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Coding Banner" width="50%"/>
 </p>
 
-<h1 align="center">Shahryar Khan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">Backend Developer | System Architect | DevOps</h3>
+<h1 align="center">Hey, I'm Shahryar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <p align="center">
-  I engineer and deploy scalable, high-performance backend systems. My work focuses on architecting robust, end-to-end solutions with an emphasis on clean code, performance optimization, and measurable impact.
+I build and deploy backend systems. Scalable, fast, and often AI-powered 🤖. I jump into fullstack when needed and care about clean, real-world solutions.
+  <br />
 </p>
 
 ---
 
-### 🚀 Building
+### 🔥 I'm currently building
 
--   Currently developing a **Multi-Tenant HRM SaaS** using a modern **Python** stack (**FastAPI**, **PostgreSQL**). The goal is a fully scalable, microservices-based platform designed for comprehensive enterprise HR management.
-
----
-
-### 🔬 Deepdive
-
--   Learning about the world of advanced ML systems, with a focus on **Retrieval-Augmented Generation (RAG)** systems for complex querying and leveraging **Large Language Models (LLMs)** for intelligent, data-driven applications.
+-   Currently architecting a **Multi-Tenant HRM SaaS** with **Python** and **FastAPI**.
 
 ---
 
-### 🛠️ My Toolkit
+### 🧠 Deepdiving into
+
+-   **Retrieval-Augmented Generation (RAG)** systems, for it's practical applications.
+
+---
+
+### 🛠️ Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -54,13 +54,15 @@
 
 ---
 
-### 🔗 Let's Connect
+### 💬 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shahryar-khan-/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="50px" />
   </a>
   <a href="mailto:shahryar2k3@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="www.discord.com/users/357070214334251019" target="_blank"> <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord" width="50px" />
   </a>
 </p>
