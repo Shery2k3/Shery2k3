@@ -11,9 +11,9 @@ I build and deploy backend systems. Scalable, fast, and often AI-powered 🤖. I
 
 ---
 
-### 🔥 I'm currently building
+### 🔨 Working on
 
--   Currently architecting a **Multi-Tenant HRM SaaS** with **Python** and **FastAPI**.
+-   a **Multi-Tenant HRM SaaS** with **Python** and **FastAPI**.
 
 ---
 
@@ -23,7 +23,7 @@ I build and deploy backend systems. Scalable, fast, and often AI-powered 🤖. I
 
 ---
 
-### 🛠️ Technologies
+### 🌟 Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
