@@ -1,40 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Coding Banner" width="60%"/>
-</p>
-
-<h1 align="center">Hey, I'm Shahryar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-
-<p align="center">
-  I engineer robust backend systems. Scalable, fast, and frequently infused with AI 🤖. 
-  <br /> 
-  I thrive in fullstack environments, building clean, real-world solutions from the ground up.
-</p>
-
----
-
-### 🚀 What I'm Up To
-
-<p align="center">
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3 align="center">🔭 Currently Building</h3>
-      <p align="center">
-        A Multi-Tenant HRM SaaS with Python and FastAPI.
-      </p>
-    </td>
-    <td valign="top" width="50%">
-      <h3 align="center">🌱 Currently Exploring</h3>
-      <p align="center">
-        The practical applications of Retrieval-Augmented Generation (RAG) systems.
-      </p>
-    </td>
-  </tr>
-</table>
-</p>
-
----
-
 ### 💻 Tech Stack & Tools
 
 <p align="center">
@@ -86,25 +49,4 @@
     </td>
   </tr>
 </table>
-</p>
-
----
-
-### 💬 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shahryar-khan-/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="100px" />
-  </a>
-  <a href="https://www.discord.com/users/357070214334251019" target="_blank"> 
-    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord" width="100px" />
-  </a>
-<a href="https://www.instagram.com/kshahryar21/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" width="100px" />
-</a>
-</p>
-<p align="center">
-<a href="mailto:shahryar2k3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
