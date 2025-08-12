@@ -1,5 +1,3 @@
-### 💻 Tech Stack & Tools
-
 <p align="center">
 <table>
   <tr>
