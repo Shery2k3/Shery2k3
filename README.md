@@ -13,8 +13,7 @@
       <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/-Node.js-90c53f?style=for-the-badge&logo=node.js&logoColor=white" /></a>
       <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
       <a href="https://hono.dev/" target="_blank"><img src="https://img.shields.io/badge/-Hono-E36000?style=for-the-badge&logo=hono&logoColor=white" /></a>
-      <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
-    </td>
+      <a href="https://spring.io" target="_blank"><img src="https://shields.io" /></a>    </td>
     <td align="center" valign="top">
       <strong>Frontend</strong><br><br>
       <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=black" /></a>
